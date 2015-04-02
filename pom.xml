@@ -4,7 +4,7 @@
 
   <groupId>com.mondora</groupId>
   <artifactId>maintest</artifactId>
-  <version>${global.version}</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>maintest</name>
@@ -18,13 +18,18 @@
   <dependencies>
     <!--<dependency>
       <groupId>com.mondora</groupId>
+      <artifactId>themodules</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>com.mondora</groupId>
       <artifactId>modulea</artifactId>
-      <version>${global.version}</version>
+      <version>1.0-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>com.mondora</groupId>
       <artifactId>moduleb</artifactId>
-      <version>${global.version}</version>
+      <version>1.0-SNAPSHOT</version>
     </dependency>-->
     <dependency>
       <groupId>junit</groupId>
